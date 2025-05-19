@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Data Scientist
 -----------------------------
 
-###🔹 Professional & Focused
+### 🔹 Professional & Focused
    Turning data into insights with Python, dashboards, and machine learning.
 ###🔹 Analytical & Aspirational
    Data Analyst | Python Enthusiast | Exploring ML & AI for real-world impact.
