@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Data Scientist
 -----------------------------
 
-#🔹 Professional & Focused
+##🔹 Professional & Focused
    Turning data into insights with Python, dashboards, and machine learning.
-#🔹 Analytical & Aspirational
+##🔹 Analytical & Aspirational
    Data Analyst | Python Enthusiast | Exploring ML & AI for real-world impact.
-#🔹 Creative & Crisp
+##🔹 Creative & Crisp
    Making data talk — one dashboard, one model, one insight at a time.
-#🔹 Tech-Savvy
+##🔹 Tech-Savvy
    Data analyst building smart solutions with Python, ML, and visual storytelling.
 
 * 🌍  I'm based in Jakarta
