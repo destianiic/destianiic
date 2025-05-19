@@ -7,7 +7,7 @@ Data Analyst | Data Scientist
 🔹 Professional & Focused Turning data into insights with Python, dashboards, and machine learning. 🔹 Analytical & Aspirational Junior Data Analyst | Python Enthusiast | Exploring ML & AI for real-world impact. 🔹 Creative & Crisp Making data talk — one dashboard, one model, one insight at a time. 🔹 Tech-Savvy Data analyst building smart solutions with Python, ML, and visual storytelling.
 
 * 🌍  I'm based in Jakarta
-* 🖥️  See my portfolio at [Desti's Portfolio](http://github.com/destianiic)
+* 🖥️  See my portfolio at [Desti's Portfolio](https://github.com/destianiic?tab=repositories)
 * ✉️  You can contact me at [destianiic@gmail.com](mailto:destianiic@gmail.com)
 * 🧠  I'm learning LLMs, AutoML
 * 🤝  I'm open to collaborating on Interesting Projects
